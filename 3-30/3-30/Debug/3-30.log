@@ -1,0 +1,4 @@
+﻿  test.c
+f:\vs2015项目文件夹\3-30\3-30\test.c(257): warning C4013: “my_strlen”未定义；假设外部返回 int
+test.obj : error LNK2019: 无法解析的外部符号 _my_strlen，该符号在函数 _reverse_string 中被引用
+F:\vs2015项目文件夹\3-30\Debug\3-30.exe : fatal error LNK1120: 1 个无法解析的外部命令
